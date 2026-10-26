@@ -7,8 +7,8 @@ export SERVICE_NAME=${SERVICE_NAME:-'new-api'}
 export SERVICE_PORT=${SERVICE_PORT:-'3000'} 
 export RUN_USER=${RUN_USER:-'root'} 
 
-URL_AMD64="https://github.com/QuantumNous/new-api/releases/latest/download/new-api-v1.0.0-rc.45"
-URL_ARM64="https://github.com/QuantumNous/new-api/releases/latest/download/new-api-arm64-v1.0.0-rc.45"
+URL_AMD64="https://github.com/QuantumNous/new-api/releases/latest/download/new-api-v1.0.0-rc.47"
+URL_ARM64="https://github.com/QuantumNous/new-api/releases/latest/download/new-api-arm64-v1.0.0-rc.47"
 # ============================================
 
 usage() {
